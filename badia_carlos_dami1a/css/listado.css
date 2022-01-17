@@ -1,0 +1,35 @@
+
+*{
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box ;
+}
+footer{
+    display: block;
+    line-height: 40px;
+    background: black;
+    color: white;
+    word-spacing: 30px;
+}
+nav{
+    position: sticky;
+    top: 0;
+}
+nav ul{
+    display: block;
+    line-height: 40px;
+    background: green;
+    
+    
+}
+nav ul a:hover{
+    background: lightgreen;
+}
+body{
+    background-color: lightgray;
+}
+
+section{
+    background-color: rgb(203, 255, 203);
+    border-radius: 15px;
+}
